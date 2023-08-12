@@ -3,11 +3,11 @@
 AutoML is an open-source project that aims to simplify the machine learning process by providing a streamlined and user-friendly interface for data analysis, exploratory data profiling, and model building. This project leverages the power of:
 
 <p align="center">
-    <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" alt="Streamlit" width="150" />
-    <img src="https://plotly.com/~Plotly/16787.png" alt="Plotly" width="150" />
-    <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="Pandas" width="150" />
-    <img src="https://pandas-profiling.github.io/pandas-profiling/docs/assets/logo_header.png" alt="Pandas Profiling" width="150" />
-    <img src="https://pycaret.org/wp-content/uploads/2021/06/Artboard-–-1@2x-300x94.png" alt="PyCaret" width="150" />
+    <img src="https://github.com/vikasharma005/AutoML/blob/main/images/streamlit-logo.png" alt="Streamlit" width="150" />
+    <img src="https://github.com/vikasharma005/AutoML/blob/main/images/plotly-logo.png" alt="Plotly" width="150" />
+    <img src="https://github.com/vikasharma005/AutoML/blob/main/images/pandas-logo-transparent.png" alt="Pandas" width="150" />
+    <img src="https://github.com/vikasharma005/AutoML/blob/main/images/pandas-profiling-logo-transparent.png" alt="Pandas Profiling" width="150" />
+    <img src="https://github.com/vikasharma005/AutoML/blob/main/images/pycaret-logo-transparent.png" alt="PyCaret" width="150" />
 </p>
 
 ## Features
