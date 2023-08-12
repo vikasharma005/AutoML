@@ -10,7 +10,7 @@ from streamlit_pandas_profiling import st_profile_report
 from pycaret.regression import setup, compare_models, pull, save_model
 
 with st.sidebar: 
-    st.image("https://www.onepointltd.com/wp-content/uploads/2020/03/inno2.png")
+    st.image("https://www.google.com/url?sa=i&url=https%3A%2F%2Fh2o.ai%2Fplatform%2Fh2o-automl%2F&psig=AOvVaw2pi1JIxgkeyZJECAOoC2vs&ust=1691897765696000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMinl7-Y1oADFQAAAAAdAAAAABAD")
     st.title("Auto Streamlit")
     choice = st.radio("Navigation", ["Upload", "Profile", "Machine Learning", "Download"])
     st.info("Hello")
