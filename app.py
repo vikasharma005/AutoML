@@ -11,8 +11,8 @@ if os.path.exists('./dataset.csv'):
     df = pd.read_csv('dataset.csv', index_col=None)
 
 with st.sidebar: 
-    st.image("https://www.google.com/url?sa=i&url=https%3A%2F%2Fh2o.ai%2Fplatform%2Fh2o-automl%2F&psig=AOvVaw2pi1JIxgkeyZJECAOoC2vs&ust=1691897765696000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMinl7-Y1oADFQAAAAAdAAAAABAD")
-    st.title("AutoNickML")
+    st.image("images/auto-ml.png")
+    st.title("AutoML")
     choice = st.radio("Navigation", ["Upload","Profiling","Modelling", "Download"])
     st.info("This project application helps you build and explore your data.")
 
